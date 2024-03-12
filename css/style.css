@@ -1,0 +1,87 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.top-banner {
+    display: flex;
+    width: 100%;
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+#name {
+    font-size: 100px;
+    font-weight: 400;
+}
+
+#Hi {
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.button {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+
+.about-part {
+    padding: 130px 120px;
+    background-color: #FFF8F3;
+    text-align: center;
+    border-radius: 10px;
+    margin: 100px 200px;
+}
+
+.about {
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.definassion {
+    text-align: center;
+}
+
+.about-details {
+    display: flex;
+}
+
+.class1 {
+
+    padding: 30px;
+}
+
+.class2 {
+
+    padding: 30px;
+}
+
+.class3 {
+
+    padding: 30px;
+}
+
+.class4 {
+
+    padding: 30px;
+}
+
+.card {
+    text-align: center;
+
+}
+
+.cards {
+    display: flex;
+    padding: 10px 10px;
+    box-shadow: 5px 7px 20px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
